@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["works"],{1822:function(e,n,t){"use strict";t.r(n);var r=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},s=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"works"},[t("h1",[e._v("Prepareing...")])])}],a=t("2877"),c={},l=Object(a["a"])(c,r,s,!1,null,null,null);n["default"]=l.exports}}]);
-//# sourceMappingURL=works.a22a70d2.js.map
