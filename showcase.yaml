@@ -8,5 +8,7 @@ startup: |
 
 entrypoint: npm run serve
 
+https: "on"
+
 branch:
   main:
