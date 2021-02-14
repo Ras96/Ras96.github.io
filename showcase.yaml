@@ -2,7 +2,11 @@ type: static
 
 work_dir: ./dist
 
+startup: |
+  npm ci
+  npm run build
+
+entrypoint: npm run serve
+
 branch:
-  main: startup: |
-    npm install
-    npm run build
+  main:
