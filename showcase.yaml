@@ -10,5 +10,7 @@ entrypoint: npm run serve
 
 https: "on"
 
+cname: ["ras.trap.show"]
+
 branch:
   main:
