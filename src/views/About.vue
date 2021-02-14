@@ -3,7 +3,7 @@
     <img class="icon" alt="Vue logo" src="../assets/icon.gif" />
     <h2>Ras / Kira Kawai</h2>
     <h3>Belongs</h3>
-      <div>Tokyo Institute of Technology</div>
+    <div>Tokyo Institute of Technology</div>
     <h3>Skills</h3>
     <ul>
       <li>
@@ -16,12 +16,12 @@
     <ul class="links">
       <li>
         <a href="https://github.com/Ras96" target="_blank" rel="noopener">
-          <img src="../assets/github.svg" alt="github" width="100px">
+          <img src="../assets/github.svg" alt="github" width="100px" />
         </a>
       </li>
       <li>
         <a href="https://twitter.com/R4S777" target="_blank" rel="noopener">
-          <img src="../assets/twitter.svg" alt="twitter">
+          <img src="../assets/twitter.svg" alt="twitter" />
         </a>
       </li>
     </ul>
