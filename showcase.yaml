@@ -1,2 +1,8 @@
+type: static
+
+work_dir: ./dist
+
 branch:
-  main: null
+  main: startup: |
+    npm install
+    npm run build
