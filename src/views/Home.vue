@@ -1,15 +1,21 @@
 <template>
   <div class="home">
-    <img class="icon" alt="Vue logo" src="../assets/icon.gif" />
-    <h1>Welcome to Ras's Portfolio!!</h1>
+    <img class="item" alt="icon" src="../assets/icon.gif" />
+    <h1 class="item">Welcome to Ras's Portfolio!!</h1>
   </div>
 </template>
 
 <style>
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap");
 .home {
-  padding: 100px;
+  padding: 50px 50px;
+  font-family: "Caveat", cursive;
+  font-size: 5ex;
 }
-img {
+.item {
+  margin: 0;
+}
+.item img {
   width: 300px;
 }
 </style>
