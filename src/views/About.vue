@@ -1,16 +1,24 @@
 <template>
   <div class="hello">
-    <img class="icon" alt="Vue logo" src="../assets/icon.gif" />
-    <h2>Ras / Kira Kawai</h2>
-    <h3>Belongs</h3>
-    <div>Tokyo Institute of Technology</div>
-    <h3>Skills</h3>
+    <h1>About Me</h1>
+    <h3>Name</h3>
     <ul>
       <li>
-        <div>JavaScript</div>
-        <div>Golang</div>
-        <div>C++</div>
+        Ras
       </li>
+      <li>
+        Kira Kawai
+      </li>
+    </ul>
+    <h3>Belongs</h3>
+    <ul>
+      <li>Tokyo Institute of Technology</li>
+    </ul>
+    <h3>Skills</h3>
+    <ul>
+      <li>JavaScript</li>
+      <li>Golang</li>
+      <li>C++</li>
     </ul>
     <h3>Links</h3>
     <ul class="links">

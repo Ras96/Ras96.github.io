@@ -1,24 +1,15 @@
 <template>
   <div class="home">
-    <h1>Ras's Portfolio</h1>
-    <HelloWorld />
+    <img class="icon" alt="Vue logo" src="../assets/icon.gif" />
+    <h1>Welcome to Ras's Portfolio!!</h1>
   </div>
 </template>
 
-<script>
-// @ is an alias to /src
-import HelloWorld from "@/components/HelloWorld.vue";
-
-export default {
-  name: "Home",
-  components: {
-    HelloWorld
-  }
-};
-</script>
-
 <style>
+.home {
+  padding: 100px;
+}
 img {
-  width: 200px;
+  width: 300px;
 }
 </style>
