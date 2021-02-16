@@ -8,14 +8,14 @@
 <style>
 @import url("https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap");
 .home {
-  padding: 50px 50px;
+  padding: 50px 0;
   font-family: "Caveat", cursive;
   font-size: 5ex;
 }
 .item {
-  margin: 0;
+  margin: 5px 0;
 }
 .item img {
-  width: 300px;
+  max-width: 300px;
 }
 </style>

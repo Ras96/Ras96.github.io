@@ -10,6 +10,10 @@
 </template>
 
 <style>
+* {
+  margin: 0;
+}
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   box-sizing: border-box;
@@ -21,6 +25,7 @@
 
 #nav {
   padding: 30px;
+  background: lemonchiffon;
 }
 
 #nav a {
