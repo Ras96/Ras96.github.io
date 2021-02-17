@@ -46,10 +46,11 @@ li {
   display: inline;
   margin: 0 10px;
 }
+.about h1 {
+  margin: 30px 0;
+}
 .about div {
   margin: 10px 0;
-  font-family: "メイリオ";
-  font-weight: 500;
 }
 .about img {
   width: 50px;

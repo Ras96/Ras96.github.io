@@ -21,6 +21,9 @@
 </template>
 
 <style>
+.works h1 {
+  margin: 30px 0;
+}
 .works a {
   color: #005caf;
   font-weight: bolder;
